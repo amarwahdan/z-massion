@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Upload/EgyptModularEnvironment/Scenes/Demo.unity
+    guid: a838c7876f437ef49924064eb4a5a26d
+  - enabled: 1
+    path: Assets/New Scene.unity
+    guid: 6b102ae09e41f174081a123ae4e36be6
   m_configObjects: {}
